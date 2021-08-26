@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6465ece2d1be81649a748bc38319781d, type: 3}
+  m_Name: Staff 1
+  m_EditorClassIdentifier: 
+  staffName: Fire Dark Knight Staff
+  grade: 6
+  attackPower: 133
+  weight: 3
+  flameDamage: 70
+  requiredIntelligence: 160
+  magicPower: 134
+  staffDescription: Demonic weapon  covered with strong veil of the darkness
